@@ -1,0 +1,28 @@
+BODY, HTML {
+    font-family: Tahoma, Geneva, sans-serif;
+	font-size:14px;
+}
+
+.bar{
+	border: 1px solid #999;
+	width:300px;
+	height:40px;
+	margin-bottom:20px;	
+
+}
+
+.bar .bar_text{
+	width: 300px;
+    height: 40px;
+    display: table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+
+.color_normal{
+	background-color:#afd8e5;	
+}
+
+.color_red{
+	background-color:#F00;	
+}
